@@ -1,9 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
+# describe
 title: [数理研究同好会]
 description: [ホームページへようこそ！]
-logo: [tylogo.jpg]
-
+logo: /img/tylogo.jpg
