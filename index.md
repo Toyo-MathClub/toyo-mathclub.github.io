@@ -10,4 +10,13 @@
 - 2
 - 3
 
+# ちょっとしたお話
 
+- Content1
+- Content2
+  
+# About us
+
+- ミション
+- 活動日
+- Contact us
