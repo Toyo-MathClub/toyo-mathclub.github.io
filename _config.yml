@@ -7,6 +7,7 @@ title: 数理研究同好会
 description: ホームページへようこそ！
 logo: /img/tylogo.jpg
 color-scheme: auto
+favicon: true
 # sidebar
 platforms:
   - name: GitHub
