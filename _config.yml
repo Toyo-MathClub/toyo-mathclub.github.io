@@ -1,13 +1,18 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # describe
 title: 数理研究同好会
 description: ホームページへようこそ！
 logo: /img/tylogo.jpg
-
-sideber:
-  - name: test
-    icon:
-    link: README.md
-    display: post
+color-scheme: auto
+# sidebar
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
+  - ...
