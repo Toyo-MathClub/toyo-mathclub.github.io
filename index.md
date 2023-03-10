@@ -18,6 +18,6 @@
 # About us
 
 仲間を募集していますよ〜
-- [ミッション](Doc/about_us/Mission.md))
+- [ミッション](Doc/about_us/Mission.md)
 - [活動日](/Doc/about_us/About_club.md)
 - [Contact us](/Doc/about_us/Contact_us.md)
