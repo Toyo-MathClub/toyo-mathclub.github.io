@@ -6,18 +6,18 @@
 
 # 私達の活動
 
-- 1
-- 2
+- [Mathcamp](/Doc/Our_activity/Mathcamp.md)
+- [Study](/Doc/Our_activity/Study.md)
 - 3
 
 # ちょっとしたお話
 
-- Content1
-- Content2
+- [Content1](/Doc/Contemts/Content1.md)
+- [Content2](/Doc/Contemts/Content2.md)
   
 # About us
 
 仲間を募集していますよ〜
-- ミッション
-- 活動日
-- Contact us
+- [ミッション](Doc/about_us/Mission.md))
+- [活動日](/Doc/about_us/About_club.md)
+- [Contact us](/Doc/about_us/Contact_us.md)
