@@ -5,3 +5,8 @@ plugins:
 title: 数理研究同好会
 description: ホームページへようこそ！
 logo: /img/tylogo.jpg
+
+sideber:
+  - name: test
+    icon:
+    link: README.md
