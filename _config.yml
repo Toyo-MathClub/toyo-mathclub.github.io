@@ -10,3 +10,4 @@ sideber:
   - name: test
     icon:
     link: README.md
+    display: post
