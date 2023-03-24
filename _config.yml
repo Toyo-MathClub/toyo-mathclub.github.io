@@ -1,5 +1,6 @@
 plugins:
 - jekyll-include-cache
+- jekyll-remote-theme
 
 # Welcome to Jekyll!
 #
