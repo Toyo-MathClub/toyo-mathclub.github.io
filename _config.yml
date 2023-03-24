@@ -31,7 +31,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Yanagi3456/Suriken_toyo_homepage_github.io"
 teaser                   : #　"/img/tylogo.jpg"
-logo                     : "/img/tylogo.jpg"
+logo                     : "img/tylogo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
