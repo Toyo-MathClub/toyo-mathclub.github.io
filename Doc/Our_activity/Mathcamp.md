@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Welcome to Jekyll!"
+title:  "Math Camp!"
 author: Just Cat
 ---
 
