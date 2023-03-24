@@ -1,7 +1,10 @@
 ---
+
 layout: posts
 title:  "Math Camp!"
 author: Just Cat
+author_profile: true
+
 ---
 
 # MathCamp
