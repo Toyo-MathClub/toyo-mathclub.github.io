@@ -6,13 +6,12 @@ Just Cat:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+
 
 M:
   name: "M"
   bio: "顧問"
+  
+数理研究同好会:
+    neme : "数理研究同好会"
+    bio  : "仲間を募集してますよ〜"
