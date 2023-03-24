@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "数理研究同好会"
-  avatar           : "img/tylogo.jpg"
+  avatar           : "/img/tylogo.jpg"
   bio              : "数理研究同好会では仲間を募集しています"
   location         : "Ushiku Japan"
   email            :
