@@ -12,8 +12,8 @@ layout: posts
 
 # 私達の活動
 
-- [Mathcamp](/Doc/Our_activity/Mathcamp.md)
-- [Study](/Doc/Our_activity/Study.md)
+- [Mathcamp](/posts/Doc/Our_activity/Mathcamp.md)
+- [Study](/posts/Doc/Our_activity/Study.md)
 - 3
 
 # ちょっとしたお話
