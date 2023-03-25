@@ -7,7 +7,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author: Just Cat
 ---
 
 # ミッション
