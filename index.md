@@ -18,7 +18,7 @@ layout: posts
 
 # ちょっとしたお話
 
-- [Content1](/Doc/Contemts/Content1.md)
+- [Content1](Doc/Contemts/_posts/Content1.md)
 - [Content2](/Doc/Contemts/Content2.md)
   
 # About us
