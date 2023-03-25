@@ -1,6 +1,6 @@
 ---
 
-layout: defaults
+layout: posts
 
 ---
 
