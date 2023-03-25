@@ -1,6 +1,6 @@
 ---
 
-layout: posts
+layout: splash
 
 ---
 
