@@ -1,6 +1,5 @@
 ---
 
-layout: splash
 author: Just cat
 
 ---
