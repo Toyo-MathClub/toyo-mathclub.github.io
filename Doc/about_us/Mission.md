@@ -1,8 +1,13 @@
 ---
 
-layout: posts
-author: Just Cat
-
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author: Just Cat
 ---
 
 # ミッション
