@@ -1,5 +1,6 @@
 ---
 
+title: test
 defaults:
   # _pages
   - scope:
