@@ -1,6 +1,6 @@
 ---
 
-layout: single
+layout: posts
 author: Just Cat
 
 ---
