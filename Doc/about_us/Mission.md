@@ -1,13 +1,7 @@
 ---
 
-title: test
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
+layout: defaults
+
 ---
 
 # ミッション
