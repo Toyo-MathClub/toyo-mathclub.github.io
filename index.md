@@ -28,3 +28,6 @@ author_profile: true
 - [ミッション](Doc/about_us/Mission.md)
 - [活動日](/Doc/about_us/About_club.md)
 - [Contact us](/Doc/about_us/Contact_us.md)
+
+
+[テスト]　(/_test/test1.md)
