@@ -13,13 +13,13 @@ author_profile: true
 
 # 私達の活動
 
-- [Mathcamp](/Doc/Our_activity/_posts/Mathcamp.md)
-- [Study](//Doc/Our_activity/_posts/Study.md)
+- [Mathcamp](/Doc/Our_activity/Mathcamp.md)
+- [Study](//Doc/Our_activity/Study.md)
 - 3
 
 # ちょっとしたお話
 
-- [Content1](Doc/Contemts/_posts/Content1.md)
+- [Content1](Doc/Contemts/posts/Content1.md)
 - [Content2](/Doc/Contemts/Content2.md)
   
 # About us
