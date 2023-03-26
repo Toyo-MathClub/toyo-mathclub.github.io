@@ -13,8 +13,8 @@ author_profile: true
 
 # 私達の活動
 
-- [Mathcamp](/Doc/Our_activity/posts/Mathcamp.md)
-- [Study](//Doc/Our_activity/posts/Study.md)
+- [Mathcamp](/Doc/Our_activity/_posts/Mathcamp.md)
+- [Study](//Doc/Our_activity/_posts/Study.md)
 - 3
 
 # ちょっとしたお話
