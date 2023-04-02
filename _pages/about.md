@@ -1,5 +1,6 @@
 ---
 
+layout: single
 permalink: /about/
 
 ---
