@@ -15,9 +15,8 @@ title: "About"
 
 ## 私達の活動
 
-- [Mathcamp](/Doc/Our_activity/Mathcamp.md)
-- [Study](//Doc/Our_activity/Study.md)
-- 3
+- [Mathcamp](/docs/our_activity/mathcamp)
+- [Math load](/docs/our_activity/MathLoad)
 
 ## ちょっとしたお話
 
@@ -27,8 +26,8 @@ title: "About"
 ## About us
 
 仲間を募集していますよ〜
-- [ミッション](Doc/about_us/Mission.md)
+- [ミッション](docs/about_us/mission)
 - [活動日](/Doc/about_us/About_club.md)
-- [Contact us](/Doc/about_us/Contact_us.md)
+- [Contact us](/docs/about_us/Contact_us)
 
-[テスト](/_test/test1.md)
+

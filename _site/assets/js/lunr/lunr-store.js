@@ -1,6 +1,6 @@
 var store = [{
         "title": "Contact us",
-        "excerpt":"hi  ","categories": [],
+        "excerpt":"こちらまでお問い合わせください。  ","categories": [],
         "tags": [],
         "url": "/docs/about_us/contact_us/",
         "teaser": null
