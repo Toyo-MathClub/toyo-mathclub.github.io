@@ -23,12 +23,6 @@ var store = [{
         "url": "/docs/our_activity/mathload/",
         "teaser": null
       },{
-        "title": "Test2",
-        "excerpt":"konchiwa-   yath  ","categories": [],
-        "tags": [],
-        "url": "/docs/test2/",
-        "teaser": null
-      },{
         "title": "Hi",
         "excerpt":"hi   Hello!  ","categories": [],
         "tags": [],
