@@ -4,6 +4,8 @@
 
 title: "Contents"
 permalink: "docs"
-layout: "categories"
+layout: "archive"
 
 ---
+
+{% for post in site.docs %} {% include archive-single.html %} {% end %}
