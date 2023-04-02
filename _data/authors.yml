@@ -1,7 +1,7 @@
 Just Cat:
   name        : "Just Cat"
   bio         : "Just Cat,Just that"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/img/JustCat.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
