@@ -3,9 +3,9 @@
 # This md shows _docs files and here are links. 
 
 title: "Contents"
-permalink: "docs"
+permalink: "/contents/"
 layout: "archive"
 
 ---
 
-{% for post in site.docs %} {% include archive-single.html %} {% end %}
+{% for post in site.contents %} {% include archive-single.html %} {% endfor %}

@@ -283,7 +283,7 @@ compress_html:
 # collections
 
 collections:
-  docs:
+  contents:
     output: true
     
     
@@ -313,10 +313,10 @@ defaults:
       author_profile: true
 
 
-  # _docs
+  # _contents
   - scope:
       path: ""
-      type: docs
+      type: contents
     values:
       layout: single
       author_profile: true
