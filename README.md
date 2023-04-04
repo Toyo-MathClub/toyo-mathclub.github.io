@@ -1,5 +1,4 @@
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Yanagi3456/Suriken_toyo_homepage_github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Yanagi3456/Suriken_toyo_homepage_github.io/actions/workflows/jekyll-gh-pages.yml)
-
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Toyo-MathClub/toyo-mathclub.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Toyo-MathClub/toyo-mathclub.github.io/actions/workflows/jekyll-gh-pages.yml)
 
 # 数理研ホームページ
 ![width=200](/img/tylogo.jpg)
