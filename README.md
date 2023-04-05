@@ -4,4 +4,4 @@
 # 数理研ホームページ
 ![](/img/tylogo.jpg)
 数理研のホームページ
-![こちら](toyo-mathclub.github.io/)
+[こちら](toyo-mathclub.github.io/)
