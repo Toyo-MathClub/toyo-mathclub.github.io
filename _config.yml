@@ -23,7 +23,7 @@ title                    : "数理研究同好会"
 title_separator          : "-"
 subtitle                 : Toyo Math Culb
 name                     : "数理研究同好会"
-description              : "数理研究同好会のホームページ"
+description              : "東洋大学付属牛久高等学校、数理研究同好会のホームページです。私達の活動について載せています。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Yanagi3456/Suriken_toyo_homepage_github.io"
