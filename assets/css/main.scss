@@ -7,3 +7,18 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.g-slide{
+position: relative;
+overflow: hidden;
+margin: 15px 0 20px 0;
+padding-bottom: 50%;
+padding-top: 65px;
+}
+.g-slide iframe {
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+}
