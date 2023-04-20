@@ -4,7 +4,7 @@ layout: home
 permalink: /
 title: "数学って面白い！"
 header:
-  image: /img/数理研バナー.jpg
+  image: /img/MathClubThema.png
   
 ---
 
